@@ -1,6 +1,6 @@
-function MainController($scope) {
+// function MainController($scope) {
  
-};
+// };
 
 myApp.controller('BasicController', function($scope) {
     $scope.title = 'this is title';
